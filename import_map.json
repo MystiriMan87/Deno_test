@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "command": "https://deno.land/x/cliffy@v0.23.0/command/mod.ts",
+        "prompt": "https://deno.land/x/cliffy@v0.23.0/prompt/mod.ts",
+        "figlet": "https://x.nest.land/deno-figlet@0.0.5/mod.js"
+    }
+}
